@@ -1,0 +1,46 @@
+{
+    "productionData": [
+      {
+        "year": "2019-20",
+        "production": 4657.41,
+        "rate": 325,
+        "totalRevenue": 1513158.25
+      },
+      {
+        "year": "2020-21",
+        "production": 5194.52,
+        "rate": 325,
+        "totalRevenue": 1687219.00
+      },
+      {
+        "year": "2021-22",
+        "production": 5556.32,
+        "rate": 348,
+        "totalRevenue": 1933799.36
+      },
+      {
+        "year": "2022-23",
+        "production": 5242.10,
+        "rate": 350,
+        "totalRevenue": 1834735.00
+      },
+      {
+        "year": "2023-24",
+        "production": 3502.92,
+        "rate": 370,
+        "totalRevenue": 1296080.40
+      },
+      {
+        "year": "2024-25",
+        "production": 4739.87,
+        "rate": 377.5,
+        "totalRevenue": 1788290.43
+      },
+      {
+        "year": "2025-26",
+        "production": 3866.8,
+        "rate": 399.2,
+        "totalRevenue": 1543630.70
+      }
+    ]
+  }
